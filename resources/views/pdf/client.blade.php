@@ -21,6 +21,7 @@
         table td {
             border: 1px solid #777;
             padding: 8px;
+
             text-align: left;
         }
 
